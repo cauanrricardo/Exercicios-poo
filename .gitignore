@@ -20,7 +20,7 @@ bin/
 /nbbuild/
 /dist/
 /nbdist/
-/.nb-gradle/
+/nb-gradle/
 
 ### VS Code ###
 .vscode/
