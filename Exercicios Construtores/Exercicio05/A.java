@@ -1,0 +1,1 @@
+enato no caso da sobrecarga, vai dar no final a mesma coisa de u construtior padrao, vai pedi os dados obrigatorio n
